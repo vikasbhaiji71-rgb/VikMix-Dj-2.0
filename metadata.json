@@ -1,0 +1,6 @@
+{
+  "name": "VikMix DJ",
+  "description": "Professional mobile-first two-deck DJ remix mixer powered by YouTube IFrame API and dual-deck crossfade engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
