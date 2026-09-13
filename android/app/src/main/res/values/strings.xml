@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">VikMix DJ</string>
+    <string name="title_activity_main">VikMix DJ</string>
+    <string name="package_name">com.vikmix.dj</string>
+    <string name="custom_url_scheme">com.vikmix.dj</string>
+</resources>
